@@ -1,0 +1,5 @@
+transaction_id,date,category,amount,reason_for_anomaly
+TRX002,2024-06-01,Utilities,150.0,Outside IQR range
+TRX004,2024-06-02,Food,3000.0,Outside IQR range
+TRX006,2024-06-03,Utilities,135.0,Outside IQR range
+TRX007,2024-06-03,Food,20.0,Outside IQR range
